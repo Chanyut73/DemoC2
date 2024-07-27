@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1722088312,
+	"version": 1722089712,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,10 @@
 		"images/windowsสำเนา9-sheet0.png",
 		"images/windows-sheet0.png",
 		"images/windowsสำเนา10-sheet0.png",
+		"media/jump.m4a",
+		"media/jump.ogg",
+		"media/melodyloops-the-first-light.m4a",
+		"media/melodyloops-the-first-light.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
